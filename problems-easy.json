@@ -1,0 +1,3161 @@
+[
+  {
+    "number": 20,
+    "problem": "Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "difficulty": "Easy",
+    "acceptance": 40.4,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 2423,
+    "problem": "Remove Letter To Equalize Frequency",
+    "url": "https://leetcode.com/problems/remove-letter-to-equalize-frequency/",
+    "difficulty": "Easy",
+    "acceptance": 17.9,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 2591,
+    "problem": "Distribute Money to Maximum Children",
+    "url": "https://leetcode.com/problems/distribute-money-to-maximum-children/",
+    "difficulty": "Easy",
+    "acceptance": 18.3,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 193,
+    "problem": "Valid Phone Numbers",
+    "url": "https://leetcode.com/problems/valid-phone-numbers/",
+    "difficulty": "Easy",
+    "acceptance": 26,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 1909,
+    "problem": "Remove One Element to Make the Array Strictly Increasing",
+    "url": "https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/",
+    "difficulty": "Easy",
+    "acceptance": 26.1,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 2047,
+    "problem": "Number of Valid Words in a Sentence",
+    "url": "https://leetcode.com/problems/number-of-valid-words-in-a-sentence/",
+    "difficulty": "Easy",
+    "acceptance": 29.2,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 859,
+    "problem": "Buddy Strings",
+    "url": "https://leetcode.com/problems/buddy-strings/",
+    "difficulty": "Easy",
+    "acceptance": 29.2,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 914,
+    "problem": "X of a Kind in a Deck of Cards",
+    "url": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/",
+    "difficulty": "Easy",
+    "acceptance": 31.2,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 2614,
+    "problem": "Prime In Diagonal",
+    "url": "https://leetcode.com/problems/prime-in-diagonal/",
+    "difficulty": "Easy",
+    "acceptance": 31.5,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 163,
+    "problem": "Missing Ranges",
+    "url": "https://leetcode.com/problems/missing-ranges/",
+    "difficulty": "Easy",
+    "acceptance": 32.2,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 605,
+    "problem": "Can Place Flowers",
+    "url": "https://leetcode.com/problems/can-place-flowers/",
+    "difficulty": "Easy",
+    "acceptance": 32.8,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 195,
+    "problem": "Tenth Line",
+    "url": "https://leetcode.com/problems/tenth-line/",
+    "difficulty": "Easy",
+    "acceptance": 32.9,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 925,
+    "problem": "Long Pressed Name",
+    "url": "https://leetcode.com/problems/long-pressed-name/",
+    "difficulty": "Easy",
+    "acceptance": 33.1,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 414,
+    "problem": "Third Maximum Number",
+    "url": "https://leetcode.com/problems/third-maximum-number/",
+    "difficulty": "Easy",
+    "acceptance": 33.2,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 941,
+    "problem": "Valid Mountain Array",
+    "url": "https://leetcode.com/problems/valid-mountain-array/",
+    "difficulty": "Easy",
+    "acceptance": 33.4,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 2525,
+    "problem": "Categorize Box According to Criteria",
+    "url": "https://leetcode.com/problems/categorize-box-according-to-criteria/",
+    "difficulty": "Easy",
+    "acceptance": 34.2,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 408,
+    "problem": "Valid Word Abbreviation",
+    "url": "https://leetcode.com/problems/valid-word-abbreviation/",
+    "difficulty": "Easy",
+    "acceptance": 34.8,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 168,
+    "problem": "Excel Sheet Column Title",
+    "url": "https://leetcode.com/problems/excel-sheet-column-title/",
+    "difficulty": "Easy",
+    "acceptance": 35.6,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 1142,
+    "problem": "User Activity for the Past 30 Days II",
+    "url": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/",
+    "difficulty": "Easy",
+    "acceptance": 35.7,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 1346,
+    "problem": "Check If N and Its Double Exist",
+    "url": "https://leetcode.com/problems/check-if-n-and-its-double-exist/",
+    "difficulty": "Easy",
+    "acceptance": 36.5,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 1805,
+    "problem": "Number of Different Integers in a String",
+    "url": "https://leetcode.com/problems/number-of-different-integers-in-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 36.6,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 1037,
+    "problem": "Valid Boomerang",
+    "url": "https://leetcode.com/problems/valid-boomerang/",
+    "difficulty": "Easy",
+    "acceptance": 37,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 434,
+    "problem": "Number of Segments in a String",
+    "url": "https://leetcode.com/problems/number-of-segments-in-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 37.1,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 170,
+    "problem": "Two Sum III - Data structure design",
+    "url": "https://leetcode.com/problems/two-sum-iii-data-structure-design/",
+    "difficulty": "Easy",
+    "acceptance": 37.4,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 69,
+    "problem": "Sqrt(x)",
+    "url": "https://leetcode.com/problems/sqrtx/",
+    "difficulty": "Easy",
+    "acceptance": 37.4,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 2511,
+    "problem": "Maximum Enemy Forts That Can Be Captured",
+    "url": "https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/",
+    "difficulty": "Easy",
+    "acceptance": 37.6,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 507,
+    "problem": "Perfect Number",
+    "url": "https://leetcode.com/problems/perfect-number/",
+    "difficulty": "Easy",
+    "acceptance": 37.7,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 1677,
+    "problem": "Product's Worth Over Invoices",
+    "url": "https://leetcode.com/problems/products-worth-over-invoices/",
+    "difficulty": "Easy",
+    "acceptance": 38.3,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 28,
+    "problem": "Find the Index of the First Occurrence in a String",
+    "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 39.1,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 680,
+    "problem": "Valid Palindrome II",
+    "url": "https://leetcode.com/problems/valid-palindrome-ii/",
+    "difficulty": "Easy",
+    "acceptance": 39.3,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 1668,
+    "problem": "Maximum Repeating Substring",
+    "url": "https://leetcode.com/problems/maximum-repeating-substring/",
+    "difficulty": "Easy",
+    "acceptance": 39.4,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 604,
+    "problem": "Design Compressed String Iterator",
+    "url": "https://leetcode.com/problems/design-compressed-string-iterator/",
+    "difficulty": "Easy",
+    "acceptance": 39.5,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 1784,
+    "problem": "Check if Binary String Has at Most One Segment of Ones",
+    "url": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/",
+    "difficulty": "Easy",
+    "acceptance": 40,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 422,
+    "problem": "Valid Word Square",
+    "url": "https://leetcode.com/problems/valid-word-square/",
+    "difficulty": "Easy",
+    "acceptance": 40,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 1232,
+    "problem": "Check If It Is a Straight Line",
+    "url": "https://leetcode.com/problems/check-if-it-is-a-straight-line/",
+    "difficulty": "Easy",
+    "acceptance": 40.3,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 20,
+    "problem": "Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/",
+    "difficulty": "Easy",
+    "acceptance": 40.4,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 1527,
+    "problem": "Patients With a Condition",
+    "url": "https://leetcode.com/problems/patients-with-a-condition/",
+    "difficulty": "Easy",
+    "acceptance": 40.5,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 14,
+    "problem": "Longest Common Prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix/",
+    "difficulty": "Easy",
+    "acceptance": 40.9,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 157,
+    "problem": "Read N Characters Given Read4",
+    "url": "https://leetcode.com/problems/read-n-characters-given-read4/",
+    "difficulty": "Easy",
+    "acceptance": 41,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 2383,
+    "problem": "Minimum Hours of Training to Win a Competition",
+    "url": "https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/",
+    "difficulty": "Easy",
+    "acceptance": 41,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 290,
+    "problem": "Word Pattern",
+    "url": "https://leetcode.com/problems/word-pattern/",
+    "difficulty": "Easy",
+    "acceptance": 41.7,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 263,
+    "problem": "Ugly Number",
+    "url": "https://leetcode.com/problems/ugly-number/",
+    "difficulty": "Easy",
+    "acceptance": 42.3,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 597,
+    "problem": "Friend Requests I: Overall Acceptance Rate",
+    "url": "https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/",
+    "difficulty": "Easy",
+    "acceptance": 42.4,
+    "page": 1,
+    "availability": "premium"
+  },
+  {
+    "number": 1736,
+    "problem": "Latest Time by Replacing Hidden Digits",
+    "url": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/",
+    "difficulty": "Easy",
+    "acceptance": 42.5,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 219,
+    "problem": "Contains Duplicate II",
+    "url": "https://leetcode.com/problems/contains-duplicate-ii/",
+    "difficulty": "Easy",
+    "acceptance": 42.6,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 1013,
+    "problem": "Partition Array Into Three Parts With Equal Sum",
+    "url": "https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/",
+    "difficulty": "Easy",
+    "acceptance": 42.7,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 645,
+    "problem": "Set Mismatch",
+    "url": "https://leetcode.com/problems/set-mismatch/",
+    "difficulty": "Easy",
+    "acceptance": 42.7,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 2099,
+    "problem": "Find Subsequence of Length K With the Largest Sum",
+    "url": "https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/",
+    "difficulty": "Easy",
+    "acceptance": 42.9,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 205,
+    "problem": "Isomorphic Strings",
+    "url": "https://leetcode.com/problems/isomorphic-strings/",
+    "difficulty": "Easy",
+    "acceptance": 42.9,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 58,
+    "problem": "Length of Last Word",
+    "url": "https://leetcode.com/problems/length-of-last-word/",
+    "difficulty": "Easy",
+    "acceptance": 43,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 2437,
+    "problem": "Number of Valid Clock Times",
+    "url": "https://leetcode.com/problems/number-of-valid-clock-times/",
+    "difficulty": "Easy",
+    "acceptance": 43.2,
+    "page": 1,
+    "availability": "free"
+  },
+  {
+    "number": 482,
+    "problem": "License Key Formatting",
+    "url": "https://leetcode.com/problems/license-key-formatting/",
+    "difficulty": "Easy",
+    "acceptance": 43.3,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 278,
+    "problem": "First Bad Version",
+    "url": "https://leetcode.com/problems/first-bad-version/",
+    "difficulty": "Easy",
+    "acceptance": 43.3,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1566,
+    "problem": "Detect Pattern of Length M Repeated K or More Times",
+    "url": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/",
+    "difficulty": "Easy",
+    "acceptance": 43.3,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 367,
+    "problem": "Valid Perfect Square",
+    "url": "https://leetcode.com/problems/valid-perfect-square/",
+    "difficulty": "Easy",
+    "acceptance": 43.3,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 35,
+    "problem": "Search Insert Position",
+    "url": "https://leetcode.com/problems/search-insert-position/",
+    "difficulty": "Easy",
+    "acceptance": 43.4,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1592,
+    "problem": "Rearrange Spaces Between Words",
+    "url": "https://leetcode.com/problems/rearrange-spaces-between-words/",
+    "difficulty": "Easy",
+    "acceptance": 43.5,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 2409,
+    "problem": "Count Days Spent Together",
+    "url": "https://leetcode.com/problems/count-days-spent-together/",
+    "difficulty": "Easy",
+    "acceptance": 43.6,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 643,
+    "problem": "Maximum Average Subarray I",
+    "url": "https://leetcode.com/problems/maximum-average-subarray-i/",
+    "difficulty": "Easy",
+    "acceptance": 43.7,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 66,
+    "problem": "Plus One",
+    "url": "https://leetcode.com/problems/plus-one/",
+    "difficulty": "Easy",
+    "acceptance": 43.7,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 459,
+    "problem": "Repeated Substring Pattern",
+    "url": "https://leetcode.com/problems/repeated-substring-pattern/",
+    "difficulty": "Easy",
+    "acceptance": 43.7,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 836,
+    "problem": "Rectangle Overlap",
+    "url": "https://leetcode.com/problems/rectangle-overlap/",
+    "difficulty": "Easy",
+    "acceptance": 43.9,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 734,
+    "problem": "Sentence Similarity",
+    "url": "https://leetcode.com/problems/sentence-similarity/",
+    "difficulty": "Easy",
+    "acceptance": 44,
+    "page": 2,
+    "availability": "premium"
+  },
+  {
+    "number": 671,
+    "problem": "Second Minimum Node In a Binary Tree",
+    "url": "https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/",
+    "difficulty": "Easy",
+    "acceptance": 44.1,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 125,
+    "problem": "Valid Palindrome",
+    "url": "https://leetcode.com/problems/valid-palindrome/",
+    "difficulty": "Easy",
+    "acceptance": 44.4,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 111,
+    "problem": "Minimum Depth of Binary Tree",
+    "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree/",
+    "difficulty": "Easy",
+    "acceptance": 44.5,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 197,
+    "problem": "Rising Temperature",
+    "url": "https://leetcode.com/problems/rising-temperature/",
+    "difficulty": "Easy",
+    "acceptance": 44.7,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 819,
+    "problem": "Most Common Word",
+    "url": "https://leetcode.com/problems/most-common-word/",
+    "difficulty": "Easy",
+    "acceptance": 44.7,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1790,
+    "problem": "Check if One String Swap Can Make Strings Equal",
+    "url": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/",
+    "difficulty": "Easy",
+    "acceptance": 45.3,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 2239,
+    "problem": "Find Closest Number to Zero",
+    "url": "https://leetcode.com/problems/find-closest-number-to-zero/",
+    "difficulty": "Easy",
+    "acceptance": 45.3,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 2609,
+    "problem": "Find the Longest Balanced Substring of a Binary String",
+    "url": "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/",
+    "difficulty": "Easy",
+    "acceptance": 45.4,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 326,
+    "problem": "Power of Three",
+    "url": "https://leetcode.com/problems/power-of-three/",
+    "difficulty": "Easy",
+    "acceptance": 45.5,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 717,
+    "problem": "1-bit and 2-bit Characters",
+    "url": "https://leetcode.com/problems/1-bit-and-2-bit-characters/",
+    "difficulty": "Easy",
+    "acceptance": 45.7,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 744,
+    "problem": "Find Smallest Letter Greater Than Target",
+    "url": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+    "difficulty": "Easy",
+    "acceptance": 45.8,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 628,
+    "problem": "Maximum Product of Three Numbers",
+    "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/",
+    "difficulty": "Easy",
+    "acceptance": 45.9,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 231,
+    "problem": "Power of Two",
+    "url": "https://leetcode.com/problems/power-of-two/",
+    "difficulty": "Easy",
+    "acceptance": 46,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 203,
+    "problem": "Remove Linked List Elements",
+    "url": "https://leetcode.com/problems/remove-linked-list-elements/",
+    "difficulty": "Easy",
+    "acceptance": 46,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 2259,
+    "problem": "Remove Digit From Number to Maximize Result",
+    "url": "https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/",
+    "difficulty": "Easy",
+    "acceptance": 46.1,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 342,
+    "problem": "Power of Four",
+    "url": "https://leetcode.com/problems/power-of-four/",
+    "difficulty": "Easy",
+    "acceptance": 46.2,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 441,
+    "problem": "Arranging Coins",
+    "url": "https://leetcode.com/problems/arranging-coins/",
+    "difficulty": "Easy",
+    "acceptance": 46.2,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 2582,
+    "problem": "Pass the Pillow",
+    "url": "https://leetcode.com/problems/pass-the-pillow/",
+    "difficulty": "Easy",
+    "acceptance": 46.3,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 572,
+    "problem": "Subtree of Another Tree",
+    "url": "https://leetcode.com/problems/subtree-of-another-tree/",
+    "difficulty": "Easy",
+    "acceptance": 46.4,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 88,
+    "problem": "Merge Sorted Array",
+    "url": "https://leetcode.com/problems/merge-sorted-array/",
+    "difficulty": "Easy",
+    "acceptance": 46.6,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 405,
+    "problem": "Convert a Number to Hexadecimal",
+    "url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal/",
+    "difficulty": "Easy",
+    "acceptance": 46.8,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1018,
+    "problem": "Binary Prefix Divisible By 5",
+    "url": "https://leetcode.com/problems/binary-prefix-divisible-by-5/",
+    "difficulty": "Easy",
+    "acceptance": 46.8,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 989,
+    "problem": "Add to Array-Form of Integer",
+    "url": "https://leetcode.com/problems/add-to-array-form-of-integer/",
+    "difficulty": "Easy",
+    "acceptance": 47.1,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 747,
+    "problem": "Largest Number At Least Twice of Others",
+    "url": "https://leetcode.com/problems/largest-number-at-least-twice-of-others/",
+    "difficulty": "Easy",
+    "acceptance": 47.1,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1128,
+    "problem": "Number of Equivalent Domino Pairs",
+    "url": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/",
+    "difficulty": "Easy",
+    "acceptance": 47.1,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 228,
+    "problem": "Summary Ranges",
+    "url": "https://leetcode.com/problems/summary-ranges/",
+    "difficulty": "Easy",
+    "acceptance": 47.2,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 141,
+    "problem": "Linked List Cycle",
+    "url": "https://leetcode.com/problems/linked-list-cycle/",
+    "difficulty": "Easy",
+    "acceptance": 47.5,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 392,
+    "problem": "Is Subsequence",
+    "url": "https://leetcode.com/problems/is-subsequence/",
+    "difficulty": "Easy",
+    "acceptance": 47.5,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 246,
+    "problem": "Strobogrammatic Number",
+    "url": "https://leetcode.com/problems/strobogrammatic-number/",
+    "difficulty": "Easy",
+    "acceptance": 47.7,
+    "page": 2,
+    "availability": "premium"
+  },
+  {
+    "number": 844,
+    "problem": "Backspace String Compare",
+    "url": "https://leetcode.com/problems/backspace-string-compare/",
+    "difficulty": "Easy",
+    "acceptance": 48.1,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 596,
+    "problem": "Classes More Than 5 Students",
+    "url": "https://leetcode.com/problems/classes-more-than-5-students/",
+    "difficulty": "Easy",
+    "acceptance": 48.1,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1576,
+    "problem": "Replace All ?'s to Avoid Consecutive Repeating Characters",
+    "url": "https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/",
+    "difficulty": "Easy",
+    "acceptance": 48.2,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 551,
+    "problem": "Student Attendance Record I",
+    "url": "https://leetcode.com/problems/student-attendance-record-i/",
+    "difficulty": "Easy",
+    "acceptance": 48.2,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1360,
+    "problem": "Number of Days Between Two Dates",
+    "url": "https://leetcode.com/problems/number-of-days-between-two-dates/",
+    "difficulty": "Easy",
+    "acceptance": 48.2,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1056,
+    "problem": "Confusing Number",
+    "url": "https://leetcode.com/problems/confusing-number/",
+    "difficulty": "Easy",
+    "acceptance": 48.3,
+    "page": 2,
+    "availability": "premium"
+  },
+  {
+    "number": 112,
+    "problem": "Path Sum",
+    "url": "https://leetcode.com/problems/path-sum/",
+    "difficulty": "Easy",
+    "acceptance": 48.3,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 504,
+    "problem": "Base 7",
+    "url": "https://leetcode.com/problems/base-7/",
+    "difficulty": "Easy",
+    "acceptance": 48.5,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1141,
+    "problem": "User Activity for the Past 30 Days I",
+    "url": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/",
+    "difficulty": "Easy",
+    "acceptance": 48.5,
+    "page": 2,
+    "availability": "free"
+  },
+  {
+    "number": 1084,
+    "problem": "Sales Analysis III",
+    "url": "https://leetcode.com/problems/sales-analysis-iii/",
+    "difficulty": "Easy",
+    "acceptance": 48.8,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 2515,
+    "problem": "Shortest Distance to Target String in a Circular Array",
+    "url": "https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/",
+    "difficulty": "Easy",
+    "acceptance": 48.9,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 110,
+    "problem": "Balanced Binary Tree",
+    "url": "https://leetcode.com/problems/balanced-binary-tree/",
+    "difficulty": "Easy",
+    "acceptance": 49.1,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1731,
+    "problem": "The Number of Employees Which Report to Each Employee",
+    "url": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/",
+    "difficulty": "Easy",
+    "acceptance": 49.2,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1495,
+    "problem": "Friendly Movies Streamed Last Month",
+    "url": "https://leetcode.com/problems/friendly-movies-streamed-last-month/",
+    "difficulty": "Easy",
+    "acceptance": 49.2,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 674,
+    "problem": "Longest Continuous Increasing Subsequence",
+    "url": "https://leetcode.com/problems/longest-continuous-increasing-subsequence/",
+    "difficulty": "Easy",
+    "acceptance": 49.3,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 501,
+    "problem": "Find Mode in Binary Search Tree",
+    "url": "https://leetcode.com/problems/find-mode-in-binary-search-tree/",
+    "difficulty": "Easy",
+    "acceptance": 49.3,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1796,
+    "problem": "Second Largest Digit in a String",
+    "url": "https://leetcode.com/problems/second-largest-digit-in-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 49.4,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 2230,
+    "problem": "The Users That Are Eligible for Discount",
+    "url": "https://leetcode.com/problems/the-users-that-are-eligible-for-discount/",
+    "difficulty": "Easy",
+    "acceptance": 49.4,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 2432,
+    "problem": "The Employee That Worked on the Longest Task",
+    "url": "https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/",
+    "difficulty": "Easy",
+    "acceptance": 49.5,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1523,
+    "problem": "Count Odd Numbers in an Interval Range",
+    "url": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+    "difficulty": "Easy",
+    "acceptance": 49.5,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 997,
+    "problem": "Find the Town Judge",
+    "url": "https://leetcode.com/problems/find-the-town-judge/",
+    "difficulty": "Easy",
+    "acceptance": 49.5,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1154,
+    "problem": "Day of the Year",
+    "url": "https://leetcode.com/problems/day-of-the-year/",
+    "difficulty": "Easy",
+    "acceptance": 49.5,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1,
+    "problem": "Two Sum",
+    "url": "https://leetcode.com/problems/two-sum/",
+    "difficulty": "Easy",
+    "acceptance": 49.7,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1826,
+    "problem": "Faulty Sensor",
+    "url": "https://leetcode.com/problems/faulty-sensor/",
+    "difficulty": "Easy",
+    "acceptance": 49.8,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 1978,
+    "problem": "Employees Whose Manager Left the Company",
+    "url": "https://leetcode.com/problems/employees-whose-manager-left-the-company/",
+    "difficulty": "Easy",
+    "acceptance": 49.9,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 455,
+    "problem": "Assign Cookies",
+    "url": "https://leetcode.com/problems/assign-cookies/",
+    "difficulty": "Easy",
+    "acceptance": 49.9,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1083,
+    "problem": "Sales Analysis II",
+    "url": "https://leetcode.com/problems/sales-analysis-ii/",
+    "difficulty": "Easy",
+    "acceptance": 49.9,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 2446,
+    "problem": "Determine if Two Events Have Conflict",
+    "url": "https://leetcode.com/problems/determine-if-two-events-have-conflict/",
+    "difficulty": "Easy",
+    "acceptance": 50,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 345,
+    "problem": "Reverse Vowels of a String",
+    "url": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 50.1,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1646,
+    "problem": "Get Maximum in Generated Array",
+    "url": "https://leetcode.com/problems/get-maximum-in-generated-array/",
+    "difficulty": "Easy",
+    "acceptance": 50.2,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1752,
+    "problem": "Check if Array Is Sorted and Rotated",
+    "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+    "difficulty": "Easy",
+    "acceptance": 50.2,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1076,
+    "problem": "Project Employees II",
+    "url": "https://leetcode.com/problems/project-employees-ii/",
+    "difficulty": "Easy",
+    "acceptance": 50.2,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 619,
+    "problem": "Biggest Single Number",
+    "url": "https://leetcode.com/problems/biggest-single-number/",
+    "difficulty": "Easy",
+    "acceptance": 50.2,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 2205,
+    "problem": "The Number of Users That Are Eligible for Discount",
+    "url": "https://leetcode.com/problems/the-number-of-users-that-are-eligible-for-discount/",
+    "difficulty": "Easy",
+    "acceptance": 50.3,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 234,
+    "problem": "Palindrome Linked List",
+    "url": "https://leetcode.com/problems/palindrome-linked-list/",
+    "difficulty": "Easy",
+    "acceptance": 50.3,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1893,
+    "problem": "Check if All the Integers in a Range Are Covered",
+    "url": "https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/",
+    "difficulty": "Easy",
+    "acceptance": 50.4,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 541,
+    "problem": "Reverse String II",
+    "url": "https://leetcode.com/problems/reverse-string-ii/",
+    "difficulty": "Easy",
+    "acceptance": 50.4,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1933,
+    "problem": "Check if String Is Decomposable Into Value-Equal Substrings",
+    "url": "https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/",
+    "difficulty": "Easy",
+    "acceptance": 50.6,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 83,
+    "problem": "Remove Duplicates from Sorted List",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+    "difficulty": "Easy",
+    "acceptance": 50.6,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1005,
+    "problem": "Maximize Sum Of Array After K Negations",
+    "url": "https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/",
+    "difficulty": "Easy",
+    "acceptance": 50.8,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 2404,
+    "problem": "Most Frequent Even Element",
+    "url": "https://leetcode.com/problems/most-frequent-even-element/",
+    "difficulty": "Easy",
+    "acceptance": 50.9,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1243,
+    "problem": "Array Transformation",
+    "url": "https://leetcode.com/problems/array-transformation/",
+    "difficulty": "Easy",
+    "acceptance": 51.1,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 2540,
+    "problem": "Minimum Common Value",
+    "url": "https://leetcode.com/problems/minimum-common-value/",
+    "difficulty": "Easy",
+    "acceptance": 51.3,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1228,
+    "problem": "Missing Number In Arithmetic Progression",
+    "url": "https://leetcode.com/problems/missing-number-in-arithmetic-progression/",
+    "difficulty": "Easy",
+    "acceptance": 51.4,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 1089,
+    "problem": "Duplicate Zeros",
+    "url": "https://leetcode.com/problems/duplicate-zeros/",
+    "difficulty": "Easy",
+    "acceptance": 51.5,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 26,
+    "problem": "Remove Duplicates from Sorted Array",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "difficulty": "Easy",
+    "acceptance": 51.6,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 830,
+    "problem": "Positions of Large Groups",
+    "url": "https://leetcode.com/problems/positions-of-large-groups/",
+    "difficulty": "Easy",
+    "acceptance": 51.8,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 374,
+    "problem": "Guess Number Higher or Lower",
+    "url": "https://leetcode.com/problems/guess-number-higher-or-lower/",
+    "difficulty": "Easy",
+    "acceptance": 51.9,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 1971,
+    "problem": "Find if Path Exists in Graph",
+    "url": "https://leetcode.com/problems/find-if-path-exists-in-graph/",
+    "difficulty": "Easy",
+    "acceptance": 52,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 70,
+    "problem": "Climbing Stairs",
+    "url": "https://leetcode.com/problems/climbing-stairs/",
+    "difficulty": "Easy",
+    "acceptance": 52.2,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 2133,
+    "problem": "Check if Every Row and Column Contains All Numbers",
+    "url": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/",
+    "difficulty": "Easy",
+    "acceptance": 52.3,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 401,
+    "problem": "Binary Watch",
+    "url": "https://leetcode.com/problems/binary-watch/",
+    "difficulty": "Easy",
+    "acceptance": 52.3,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 67,
+    "problem": "Add Binary",
+    "url": "https://leetcode.com/problems/add-binary/",
+    "difficulty": "Easy",
+    "acceptance": 52.4,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 415,
+    "problem": "Add Strings",
+    "url": "https://leetcode.com/problems/add-strings/",
+    "difficulty": "Easy",
+    "acceptance": 52.5,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 2481,
+    "problem": "Minimum Cuts to Divide a Circle",
+    "url": "https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/",
+    "difficulty": "Easy",
+    "acceptance": 52.6,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 512,
+    "problem": "Game Play Analysis II",
+    "url": "https://leetcode.com/problems/game-play-analysis-ii/",
+    "difficulty": "Easy",
+    "acceptance": 52.7,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 1176,
+    "problem": "Diet Plan Performance",
+    "url": "https://leetcode.com/problems/diet-plan-performance/",
+    "difficulty": "Easy",
+    "acceptance": 52.8,
+    "page": 3,
+    "availability": "premium"
+  },
+  {
+    "number": 860,
+    "problem": "Lemonade Change",
+    "url": "https://leetcode.com/problems/lemonade-change/",
+    "difficulty": "Easy",
+    "acceptance": 52.9,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 27,
+    "problem": "Remove Element",
+    "url": "https://leetcode.com/problems/remove-element/",
+    "difficulty": "Easy",
+    "acceptance": 53,
+    "page": 3,
+    "availability": "free"
+  },
+  {
+    "number": 2605,
+    "problem": "Form Smallest Number From Two Digit Arrays",
+    "url": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/",
+    "difficulty": "Easy",
+    "acceptance": 53.3,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1517,
+    "problem": "Find Users With Valid E-Mails",
+    "url": "https://leetcode.com/problems/find-users-with-valid-e-mails/",
+    "difficulty": "Easy",
+    "acceptance": 53.4,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1961,
+    "problem": "Check If String Is a Prefix of Array",
+    "url": "https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/",
+    "difficulty": "Easy",
+    "acceptance": 53.4,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 599,
+    "problem": "Minimum Index Sum of Two Lists",
+    "url": "https://leetcode.com/problems/minimum-index-sum-of-two-lists/",
+    "difficulty": "Easy",
+    "acceptance": 53.4,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 594,
+    "problem": "Longest Harmonious Subsequence",
+    "url": "https://leetcode.com/problems/longest-harmonious-subsequence/",
+    "difficulty": "Easy",
+    "acceptance": 53.5,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 9,
+    "problem": "Palindrome Number",
+    "url": "https://leetcode.com/problems/palindrome-number/",
+    "difficulty": "Easy",
+    "acceptance": 53.6,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1184,
+    "problem": "Distance Between Bus Stops",
+    "url": "https://leetcode.com/problems/distance-between-bus-stops/",
+    "difficulty": "Easy",
+    "acceptance": 54,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 2027,
+    "problem": "Minimum Moves to Convert String",
+    "url": "https://leetcode.com/problems/minimum-moves-to-convert-string/",
+    "difficulty": "Easy",
+    "acceptance": 54,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 190,
+    "problem": "Reverse Bits",
+    "url": "https://leetcode.com/problems/reverse-bits/",
+    "difficulty": "Easy",
+    "acceptance": 54.1,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 409,
+    "problem": "Longest Palindrome",
+    "url": "https://leetcode.com/problems/longest-palindrome/",
+    "difficulty": "Easy",
+    "acceptance": 54.2,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1275,
+    "problem": "Find Winner on a Tic Tac Toe Game",
+    "url": "https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/",
+    "difficulty": "Easy",
+    "acceptance": 54.2,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 121,
+    "problem": "Best Time to Buy and Sell Stock",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "difficulty": "Easy",
+    "acceptance": 54.3,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 2016,
+    "problem": "Maximum Difference Between Increasing Elements",
+    "url": "https://leetcode.com/problems/maximum-difference-between-increasing-elements/",
+    "difficulty": "Easy",
+    "acceptance": 54.3,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1427,
+    "problem": "Perform String Shifts",
+    "url": "https://leetcode.com/problems/perform-string-shifts/",
+    "difficulty": "Easy",
+    "acceptance": 54.3,
+    "page": 4,
+    "availability": "premium"
+  },
+  {
+    "number": 101,
+    "problem": "Symmetric Tree",
+    "url": "https://leetcode.com/problems/symmetric-tree/",
+    "difficulty": "Easy",
+    "acceptance": 54.3,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 160,
+    "problem": "Intersection of Two Linked Lists",
+    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "difficulty": "Easy",
+    "acceptance": 54.4,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 953,
+    "problem": "Verifying an Alien Dictionary",
+    "url": "https://leetcode.com/problems/verifying-an-alien-dictionary/",
+    "difficulty": "Easy",
+    "acceptance": 54.5,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1984,
+    "problem": "Minimum Difference Between Highest and Lowest of K Scores",
+    "url": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+    "difficulty": "Easy",
+    "acceptance": 54.5,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1556,
+    "problem": "Thousand Separator",
+    "url": "https://leetcode.com/problems/thousand-separator/",
+    "difficulty": "Easy",
+    "acceptance": 54.5,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 993,
+    "problem": "Cousins in Binary Tree",
+    "url": "https://leetcode.com/problems/cousins-in-binary-tree/",
+    "difficulty": "Easy",
+    "acceptance": 54.6,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 976,
+    "problem": "Largest Perimeter Triangle",
+    "url": "https://leetcode.com/problems/largest-perimeter-triangle/",
+    "difficulty": "Easy",
+    "acceptance": 54.7,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1417,
+    "problem": "Reformat The String",
+    "url": "https://leetcode.com/problems/reformat-the-string/",
+    "difficulty": "Easy",
+    "acceptance": 54.7,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1175,
+    "problem": "Prime Arrangements",
+    "url": "https://leetcode.com/problems/prime-arrangements/",
+    "difficulty": "Easy",
+    "acceptance": 54.7,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 270,
+    "problem": "Closest Binary Search Tree Value",
+    "url": "https://leetcode.com/problems/closest-binary-search-tree-value/",
+    "difficulty": "Easy",
+    "acceptance": 54.7,
+    "page": 4,
+    "availability": "premium"
+  },
+  {
+    "number": 1607,
+    "problem": "Sellers With No Sales",
+    "url": "https://leetcode.com/problems/sellers-with-no-sales/",
+    "difficulty": "Easy",
+    "acceptance": 54.7,
+    "page": 4,
+    "availability": "premium"
+  },
+  {
+    "number": 724,
+    "problem": "Find Pivot Index",
+    "url": "https://leetcode.com/problems/find-pivot-index/",
+    "difficulty": "Easy",
+    "acceptance": 54.8,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 492,
+    "problem": "Construct the Rectangle",
+    "url": "https://leetcode.com/problems/construct-the-rectangle/",
+    "difficulty": "Easy",
+    "acceptance": 54.8,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 202,
+    "problem": "Happy Number",
+    "url": "https://leetcode.com/problems/happy-number/",
+    "difficulty": "Easy",
+    "acceptance": 54.8,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 796,
+    "problem": "Rotate String",
+    "url": "https://leetcode.com/problems/rotate-string/",
+    "difficulty": "Easy",
+    "acceptance": 55.3,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 598,
+    "problem": "Range Addition II",
+    "url": "https://leetcode.com/problems/range-addition-ii/",
+    "difficulty": "Easy",
+    "acceptance": 55.3,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 661,
+    "problem": "Image Smoother",
+    "url": "https://leetcode.com/problems/image-smoother/",
+    "difficulty": "Easy",
+    "acceptance": 55.4,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1317,
+    "problem": "Convert Integer to the Sum of Two No-Zero Integers",
+    "url": "https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/",
+    "difficulty": "Easy",
+    "acceptance": 55.4,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 703,
+    "problem": "Kth Largest Element in a Stream",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+    "difficulty": "Easy",
+    "acceptance": 55.5,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1886,
+    "problem": "Determine Whether Matrix Can Be Obtained By Rotation",
+    "url": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/",
+    "difficulty": "Easy",
+    "acceptance": 55.9,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 697,
+    "problem": "Degree of an Array",
+    "url": "https://leetcode.com/problems/degree-of-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 56,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 350,
+    "problem": "Intersection of Two Arrays II",
+    "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+    "difficulty": "Easy",
+    "acceptance": 56,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1496,
+    "problem": "Path Crossing",
+    "url": "https://leetcode.com/problems/path-crossing/",
+    "difficulty": "Easy",
+    "acceptance": 56,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 704,
+    "problem": "Binary Search",
+    "url": "https://leetcode.com/problems/binary-search/",
+    "difficulty": "Easy",
+    "acceptance": 56.1,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 292,
+    "problem": "Nim Game",
+    "url": "https://leetcode.com/problems/nim-game/",
+    "difficulty": "Easy",
+    "acceptance": 56.1,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 2299,
+    "problem": "Strong Password Checker II",
+    "url": "https://leetcode.com/problems/strong-password-checker-ii/",
+    "difficulty": "Easy",
+    "acceptance": 56.2,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1640,
+    "problem": "Check Array Formation Through Concatenation",
+    "url": "https://leetcode.com/problems/check-array-formation-through-concatenation/",
+    "difficulty": "Easy",
+    "acceptance": 56.3,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1903,
+    "problem": "Largest Odd Number in String",
+    "url": "https://leetcode.com/problems/largest-odd-number-in-string/",
+    "difficulty": "Easy",
+    "acceptance": 56.3,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 2335,
+    "problem": "Minimum Amount of Time to Fill Cups",
+    "url": "https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/",
+    "difficulty": "Easy",
+    "acceptance": 56.4,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 485,
+    "problem": "Max Consecutive Ones",
+    "url": "https://leetcode.com/problems/max-consecutive-ones/",
+    "difficulty": "Easy",
+    "acceptance": 56.6,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1071,
+    "problem": "Greatest Common Divisor of Strings",
+    "url": "https://leetcode.com/problems/greatest-common-divisor-of-strings/",
+    "difficulty": "Easy",
+    "acceptance": 56.6,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 404,
+    "problem": "Sum of Left Leaves",
+    "url": "https://leetcode.com/problems/sum-of-left-leaves/",
+    "difficulty": "Easy",
+    "acceptance": 56.7,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 495,
+    "problem": "Teemo Attacking",
+    "url": "https://leetcode.com/problems/teemo-attacking/",
+    "difficulty": "Easy",
+    "acceptance": 56.8,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 543,
+    "problem": "Diameter of Binary Tree",
+    "url": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "difficulty": "Easy",
+    "acceptance": 56.8,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 520,
+    "problem": "Detect Capital",
+    "url": "https://leetcode.com/problems/detect-capital/",
+    "difficulty": "Easy",
+    "acceptance": 57,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1957,
+    "problem": "Delete Characters to Make Fancy String",
+    "url": "https://leetcode.com/problems/delete-characters-to-make-fancy-string/",
+    "difficulty": "Easy",
+    "acceptance": 57.1,
+    "page": 4,
+    "availability": "free"
+  },
+  {
+    "number": 1118,
+    "problem": "Number of Days in a Month",
+    "url": "https://leetcode.com/problems/number-of-days-in-a-month/",
+    "difficulty": "Easy",
+    "acceptance": 57.2,
+    "page": 5,
+    "availability": "premium"
+  },
+  {
+    "number": 1271,
+    "problem": "Hexspeak",
+    "url": "https://leetcode.com/problems/hexspeak/",
+    "difficulty": "Easy",
+    "acceptance": 57.2,
+    "page": 5,
+    "availability": "premium"
+  },
+  {
+    "number": 1150,
+    "problem": "Check If a Number Is Majority Element in a Sorted Array",
+    "url": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/",
+    "difficulty": "Easy",
+    "acceptance": 57.2,
+    "page": 5,
+    "availability": "premium"
+  },
+  {
+    "number": 252,
+    "problem": "Meeting Rooms",
+    "url": "https://leetcode.com/problems/meeting-rooms/",
+    "difficulty": "Easy",
+    "acceptance": 57.3,
+    "page": 5,
+    "availability": "premium"
+  },
+  {
+    "number": 530,
+    "problem": "Minimum Absolute Difference in BST",
+    "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/",
+    "difficulty": "Easy",
+    "acceptance": 57.3,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1185,
+    "problem": "Day of the Week",
+    "url": "https://leetcode.com/problems/day-of-the-week/",
+    "difficulty": "Easy",
+    "acceptance": 57.4,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1848,
+    "problem": "Minimum Distance to the Target Element",
+    "url": "https://leetcode.com/problems/minimum-distance-to-the-target-element/",
+    "difficulty": "Easy",
+    "acceptance": 57.7,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2269,
+    "problem": "Find the K-Beauty of a Number",
+    "url": "https://leetcode.com/problems/find-the-k-beauty-of-a-number/",
+    "difficulty": "Easy",
+    "acceptance": 57.8,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2094,
+    "problem": "Finding 3-Digit Even Numbers",
+    "url": "https://leetcode.com/problems/finding-3-digit-even-numbers/",
+    "difficulty": "Easy",
+    "acceptance": 57.8,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2379,
+    "problem": "Minimum Recolors to Get K Consecutive Black Blocks",
+    "url": "https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/",
+    "difficulty": "Easy",
+    "acceptance": 57.8,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1422,
+    "problem": "Maximum Score After Splitting a String",
+    "url": "https://leetcode.com/problems/maximum-score-after-splitting-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 58,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2287,
+    "problem": "Rearrange Characters to Make Target String",
+    "url": "https://leetcode.com/problems/rearrange-characters-to-make-target-string/",
+    "difficulty": "Easy",
+    "acceptance": 58.1,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 100,
+    "problem": "Same Tree",
+    "url": "https://leetcode.com/problems/same-tree/",
+    "difficulty": "Easy",
+    "acceptance": 58.2,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2465,
+    "problem": "Number of Distinct Averages",
+    "url": "https://leetcode.com/problems/number-of-distinct-averages/",
+    "difficulty": "Easy",
+    "acceptance": 58.2,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1952,
+    "problem": "Three Divisors",
+    "url": "https://leetcode.com/problems/three-divisors/",
+    "difficulty": "Easy",
+    "acceptance": 58.3,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 383,
+    "problem": "Ransom Note",
+    "url": "https://leetcode.com/problems/ransom-note/",
+    "difficulty": "Easy",
+    "acceptance": 58.3,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1758,
+    "problem": "Minimum Changes To Make Alternating Binary String",
+    "url": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
+    "difficulty": "Easy",
+    "acceptance": 58.4,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2210,
+    "problem": "Count Hills and Valleys in an Array",
+    "url": "https://leetcode.com/problems/count-hills-and-valleys-in-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 58.4,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 896,
+    "problem": "Monotonic Array",
+    "url": "https://leetcode.com/problems/monotonic-array/",
+    "difficulty": "Easy",
+    "acceptance": 58.4,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2273,
+    "problem": "Find Resultant Array After Removing Anagrams",
+    "url": "https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/",
+    "difficulty": "Easy",
+    "acceptance": 58.4,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 13,
+    "problem": "Roman to Integer",
+    "url": "https://leetcode.com/problems/roman-to-integer/",
+    "difficulty": "Easy",
+    "acceptance": 58.6,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1560,
+    "problem": "Most Visited Sector in  a Circular Track",
+    "url": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track/",
+    "difficulty": "Easy",
+    "acceptance": 58.6,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1539,
+    "problem": "Kth Missing Positive Number",
+    "url": "https://leetcode.com/problems/kth-missing-positive-number/",
+    "difficulty": "Easy",
+    "acceptance": 58.6,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 225,
+    "problem": "Implement Stack using Queues",
+    "url": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "difficulty": "Easy",
+    "acceptance": 58.7,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1437,
+    "problem": "Check If All 1's Are at Least Length K Places Away",
+    "url": "https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/",
+    "difficulty": "Easy",
+    "acceptance": 58.7,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1939,
+    "problem": "Users That Actively Request Confirmation Messages",
+    "url": "https://leetcode.com/problems/users-that-actively-request-confirmation-messages/",
+    "difficulty": "Easy",
+    "acceptance": 58.9,
+    "page": 5,
+    "availability": "premium"
+  },
+  {
+    "number": 1809,
+    "problem": "Ad-Free Sessions",
+    "url": "https://leetcode.com/problems/ad-free-sessions/",
+    "difficulty": "Easy",
+    "acceptance": 59,
+    "page": 5,
+    "availability": "premium"
+  },
+  {
+    "number": 2504,
+    "problem": "Concatenate the Name and the Profession",
+    "url": "https://leetcode.com/problems/concatenate-the-name-and-the-profession/",
+    "difficulty": "Easy",
+    "acceptance": 59,
+    "page": 5,
+    "availability": "premium"
+  },
+  {
+    "number": 2022,
+    "problem": "Convert 1D Array Into 2D Array",
+    "url": "https://leetcode.com/problems/convert-1d-array-into-2d-array/",
+    "difficulty": "Easy",
+    "acceptance": 59.1,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1624,
+    "problem": "Largest Substring Between Two Equal Characters",
+    "url": "https://leetcode.com/problems/largest-substring-between-two-equal-characters/",
+    "difficulty": "Easy",
+    "acceptance": 59.1,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2455,
+    "problem": "Average Value of Even Numbers That Are Divisible by Three",
+    "url": "https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/",
+    "difficulty": "Easy",
+    "acceptance": 59.2,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1629,
+    "problem": "Slowest Key",
+    "url": "https://leetcode.com/problems/slowest-key/",
+    "difficulty": "Easy",
+    "acceptance": 59.2,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 783,
+    "problem": "Minimum Distance Between BST Nodes",
+    "url": "https://leetcode.com/problems/minimum-distance-between-bst-nodes/",
+    "difficulty": "Easy",
+    "acceptance": 59.3,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1873,
+    "problem": "Calculate Special Bonus",
+    "url": "https://leetcode.com/problems/calculate-special-bonus/",
+    "difficulty": "Easy",
+    "acceptance": 59.3,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1331,
+    "problem": "Rank Transform of an Array",
+    "url": "https://leetcode.com/problems/rank-transform-of-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 59.3,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 748,
+    "problem": "Shortest Completing Word",
+    "url": "https://leetcode.com/problems/shortest-completing-word/",
+    "difficulty": "Easy",
+    "acceptance": 59.3,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1287,
+    "problem": "Element Appearing More Than 25% In Sorted Array",
+    "url": "https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/",
+    "difficulty": "Easy",
+    "acceptance": 59.4,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 303,
+    "problem": "Range Sum Query - Immutable",
+    "url": "https://leetcode.com/problems/range-sum-query-immutable/",
+    "difficulty": "Easy",
+    "acceptance": 59.6,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1897,
+    "problem": "Redistribute Characters to Make All Strings Equal",
+    "url": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/",
+    "difficulty": "Easy",
+    "acceptance": 59.6,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2148,
+    "problem": "Count Elements With Strictly Smaller and Greater Elements",
+    "url": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/",
+    "difficulty": "Easy",
+    "acceptance": 59.6,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 387,
+    "problem": "First Unique Character in a String",
+    "url": "https://leetcode.com/problems/first-unique-character-in-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 59.6,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2264,
+    "problem": "Largest 3-Same-Digit Number in String",
+    "url": "https://leetcode.com/problems/largest-3-same-digit-number-in-string/",
+    "difficulty": "Easy",
+    "acceptance": 59.6,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1426,
+    "problem": "Counting Elements",
+    "url": "https://leetcode.com/problems/counting-elements/",
+    "difficulty": "Easy",
+    "acceptance": 59.7,
+    "page": 5,
+    "availability": "premium"
+  },
+  {
+    "number": 2190,
+    "problem": "Most Frequent Number Following Key In an Array",
+    "url": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 59.8,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 1995,
+    "problem": "Count Special Quadruplets",
+    "url": "https://leetcode.com/problems/count-special-quadruplets/",
+    "difficulty": "Easy",
+    "acceptance": 59.8,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2451,
+    "problem": "Odd String Difference",
+    "url": "https://leetcode.com/problems/odd-string-difference/",
+    "difficulty": "Easy",
+    "acceptance": 59.9,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 389,
+    "problem": "Find the Difference",
+    "url": "https://leetcode.com/problems/find-the-difference/",
+    "difficulty": "Easy",
+    "acceptance": 59.9,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 2549,
+    "problem": "Count Distinct Numbers on Board",
+    "url": "https://leetcode.com/problems/count-distinct-numbers-on-board/",
+    "difficulty": "Easy",
+    "acceptance": 59.9,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 812,
+    "problem": "Largest Triangle Area",
+    "url": "https://leetcode.com/problems/largest-triangle-area/",
+    "difficulty": "Easy",
+    "acceptance": 59.9,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 448,
+    "problem": "Find All Numbers Disappeared in an Array",
+    "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 60,
+    "page": 5,
+    "availability": "free"
+  },
+  {
+    "number": 563,
+    "problem": "Binary Tree Tilt",
+    "url": "https://leetcode.com/problems/binary-tree-tilt/",
+    "difficulty": "Easy",
+    "acceptance": 60.1,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1854,
+    "problem": "Maximum Population Year",
+    "url": "https://leetcode.com/problems/maximum-population-year/",
+    "difficulty": "Easy",
+    "acceptance": 60.1,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2480,
+    "problem": "Form a Chemical Bond",
+    "url": "https://leetcode.com/problems/form-a-chemical-bond/",
+    "difficulty": "Easy",
+    "acceptance": 60.2,
+    "page": 6,
+    "availability": "premium"
+  },
+  {
+    "number": 1322,
+    "problem": "Ads Performance",
+    "url": "https://leetcode.com/problems/ads-performance/",
+    "difficulty": "Easy",
+    "acceptance": 60.3,
+    "page": 6,
+    "availability": "premium"
+  },
+  {
+    "number": 521,
+    "problem": "Longest Uncommon Subsequence I",
+    "url": "https://leetcode.com/problems/longest-uncommon-subsequence-i/",
+    "difficulty": "Easy",
+    "acceptance": 60.3,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2566,
+    "problem": "Maximum Difference by Remapping a Digit",
+    "url": "https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/",
+    "difficulty": "Easy",
+    "acceptance": 60.4,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1869,
+    "problem": "Longer Contiguous Segments of Ones than Zeros",
+    "url": "https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/",
+    "difficulty": "Easy",
+    "acceptance": 60.4,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1608,
+    "problem": "Special Array With X Elements Greater Than or Equal X",
+    "url": "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/",
+    "difficulty": "Easy",
+    "acceptance": 60.5,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1518,
+    "problem": "Water Bottles",
+    "url": "https://leetcode.com/problems/water-bottles/",
+    "difficulty": "Easy",
+    "acceptance": 60.5,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 506,
+    "problem": "Relative Ranks",
+    "url": "https://leetcode.com/problems/relative-ranks/",
+    "difficulty": "Easy",
+    "acceptance": 60.6,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2347,
+    "problem": "Best Poker Hand",
+    "url": "https://leetcode.com/problems/best-poker-hand/",
+    "difficulty": "Easy",
+    "acceptance": 60.6,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1543,
+    "problem": "Fix Product Name Format",
+    "url": "https://leetcode.com/problems/fix-product-name-format/",
+    "difficulty": "Easy",
+    "acceptance": 60.7,
+    "page": 6,
+    "availability": "premium"
+  },
+  {
+    "number": 888,
+    "problem": "Fair Candy Swap",
+    "url": "https://leetcode.com/problems/fair-candy-swap/",
+    "difficulty": "Easy",
+    "acceptance": 60.7,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2231,
+    "problem": "Largest Number After Digit Swaps by Parity",
+    "url": "https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/",
+    "difficulty": "Easy",
+    "acceptance": 60.8,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 119,
+    "problem": "Pascal's Triangle II",
+    "url": "https://leetcode.com/problems/pascals-triangle-ii/",
+    "difficulty": "Easy",
+    "acceptance": 60.8,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2144,
+    "problem": "Minimum Cost of Buying Candies With Discount",
+    "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+    "difficulty": "Easy",
+    "acceptance": 60.8,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 196,
+    "problem": "Delete Duplicate Emails",
+    "url": "https://leetcode.com/problems/delete-duplicate-emails/",
+    "difficulty": "Easy",
+    "acceptance": 60.8,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1189,
+    "problem": "Maximum Number of Balloons",
+    "url": "https://leetcode.com/problems/maximum-number-of-balloons/",
+    "difficulty": "Easy",
+    "acceptance": 61,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1099,
+    "problem": "Two Sum Less Than K",
+    "url": "https://leetcode.com/problems/two-sum-less-than-k/",
+    "difficulty": "Easy",
+    "acceptance": 61,
+    "page": 6,
+    "availability": "premium"
+  },
+  {
+    "number": 653,
+    "problem": "Two Sum IV - Input is a BST",
+    "url": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+    "difficulty": "Easy",
+    "acceptance": 61,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2229,
+    "problem": "Check if an Array Is Consecutive",
+    "url": "https://leetcode.com/problems/check-if-an-array-is-consecutive/",
+    "difficulty": "Easy",
+    "acceptance": 61.1,
+    "page": 6,
+    "availability": "premium"
+  },
+  {
+    "number": 1491,
+    "problem": "Average Salary Excluding the Minimum and Maximum Salary",
+    "url": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+    "difficulty": "Easy",
+    "acceptance": 61.2,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1446,
+    "problem": "Consecutive Characters",
+    "url": "https://leetcode.com/problems/consecutive-characters/",
+    "difficulty": "Easy",
+    "acceptance": 61.2,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1407,
+    "problem": "Top Travellers",
+    "url": "https://leetcode.com/problems/top-travellers/",
+    "difficulty": "Easy",
+    "acceptance": 61.4,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 283,
+    "problem": "Move Zeroes",
+    "url": "https://leetcode.com/problems/move-zeroes/",
+    "difficulty": "Easy",
+    "acceptance": 61.4,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 217,
+    "problem": "Contains Duplicate",
+    "url": "https://leetcode.com/problems/contains-duplicate/",
+    "difficulty": "Easy",
+    "acceptance": 61.4,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 257,
+    "problem": "Binary Tree Paths",
+    "url": "https://leetcode.com/problems/binary-tree-paths/",
+    "difficulty": "Easy",
+    "acceptance": 61.4,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1009,
+    "problem": "Complement of Base 10 Integer",
+    "url": "https://leetcode.com/problems/complement-of-base-10-integer/",
+    "difficulty": "Easy",
+    "acceptance": 61.5,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1763,
+    "problem": "Longest Nice Substring",
+    "url": "https://leetcode.com/problems/longest-nice-substring/",
+    "difficulty": "Easy",
+    "acceptance": 61.5,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1945,
+    "problem": "Sum of Digits of String After Convert",
+    "url": "https://leetcode.com/problems/sum-of-digits-of-string-after-convert/",
+    "difficulty": "Easy",
+    "acceptance": 61.6,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 693,
+    "problem": "Binary Number with Alternating Bits",
+    "url": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+    "difficulty": "Easy",
+    "acceptance": 61.6,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2600,
+    "problem": "K Items With the Maximum Sum",
+    "url": "https://leetcode.com/problems/k-items-with-the-maximum-sum/",
+    "difficulty": "Easy",
+    "acceptance": 61.8,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 733,
+    "problem": "Flood Fill",
+    "url": "https://leetcode.com/problems/flood-fill/",
+    "difficulty": "Easy",
+    "acceptance": 62,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 171,
+    "problem": "Excel Sheet Column Number",
+    "url": "https://leetcode.com/problems/excel-sheet-column-number/",
+    "difficulty": "Easy",
+    "acceptance": 62.1,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 917,
+    "problem": "Reverse Only Letters",
+    "url": "https://leetcode.com/problems/reverse-only-letters/",
+    "difficulty": "Easy",
+    "acceptance": 62.1,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2129,
+    "problem": "Capitalize the Title",
+    "url": "https://leetcode.com/problems/capitalize-the-title/",
+    "difficulty": "Easy",
+    "acceptance": 62.2,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 868,
+    "problem": "Binary Gap",
+    "url": "https://leetcode.com/problems/binary-gap/",
+    "difficulty": "Easy",
+    "acceptance": 62.2,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 2073,
+    "problem": "Time Needed to Buy Tickets",
+    "url": "https://leetcode.com/problems/time-needed-to-buy-tickets/",
+    "difficulty": "Easy",
+    "acceptance": 62.3,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1652,
+    "problem": "Defuse the Bomb",
+    "url": "https://leetcode.com/problems/defuse-the-bomb/",
+    "difficulty": "Easy",
+    "acceptance": 62.5,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 21,
+    "problem": "Merge Two Sorted Lists",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "difficulty": "Easy",
+    "acceptance": 62.5,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 268,
+    "problem": "Missing Number",
+    "url": "https://leetcode.com/problems/missing-number/",
+    "difficulty": "Easy",
+    "acceptance": 62.6,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 566,
+    "problem": "Reshape the Matrix",
+    "url": "https://leetcode.com/problems/reshape-the-matrix/",
+    "difficulty": "Easy",
+    "acceptance": 62.9,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 242,
+    "problem": "Valid Anagram",
+    "url": "https://leetcode.com/problems/valid-anagram/",
+    "difficulty": "Easy",
+    "acceptance": 63.1,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1800,
+    "problem": "Maximum Ascending Subarray Sum",
+    "url": "https://leetcode.com/problems/maximum-ascending-subarray-sum/",
+    "difficulty": "Easy",
+    "acceptance": 63.1,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 293,
+    "problem": "Flip Game",
+    "url": "https://leetcode.com/problems/flip-game/",
+    "difficulty": "Easy",
+    "acceptance": 63.2,
+    "page": 6,
+    "availability": "premium"
+  },
+  {
+    "number": 746,
+    "problem": "Min Cost Climbing Stairs",
+    "url": "https://leetcode.com/problems/min-cost-climbing-stairs/",
+    "difficulty": "Easy",
+    "acceptance": 63.2,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 232,
+    "problem": "Implement Queue using Stacks",
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "difficulty": "Easy",
+    "acceptance": 63.2,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1544,
+    "problem": "Make The String Great",
+    "url": "https://leetcode.com/problems/make-the-string-great/",
+    "difficulty": "Easy",
+    "acceptance": 63.3,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1507,
+    "problem": "Reformat Date",
+    "url": "https://leetcode.com/problems/reformat-date/",
+    "difficulty": "Easy",
+    "acceptance": 63.4,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1550,
+    "problem": "Three Consecutive Odds",
+    "url": "https://leetcode.com/problems/three-consecutive-odds/",
+    "difficulty": "Easy",
+    "acceptance": 63.5,
+    "page": 6,
+    "availability": "free"
+  },
+  {
+    "number": 1078,
+    "problem": "Occurrences After Bigram",
+    "url": "https://leetcode.com/problems/occurrences-after-bigram/",
+    "difficulty": "Easy",
+    "acceptance": 63.6,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2293,
+    "problem": "Min Max Game",
+    "url": "https://leetcode.com/problems/min-max-game/",
+    "difficulty": "Easy",
+    "acceptance": 63.7,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1137,
+    "problem": "N-th Tribonacci Number",
+    "url": "https://leetcode.com/problems/n-th-tribonacci-number/",
+    "difficulty": "Easy",
+    "acceptance": 63.7,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1408,
+    "problem": "String Matching in an Array",
+    "url": "https://leetcode.com/problems/string-matching-in-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 63.8,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1065,
+    "problem": "Index Pairs of a String",
+    "url": "https://leetcode.com/problems/index-pairs-of-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 63.9,
+    "page": 7,
+    "availability": "premium"
+  },
+  {
+    "number": 2303,
+    "problem": "Calculate Amount Paid in Taxes",
+    "url": "https://leetcode.com/problems/calculate-amount-paid-in-taxes/",
+    "difficulty": "Easy",
+    "acceptance": 63.9,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 169,
+    "problem": "Majority Element",
+    "url": "https://leetcode.com/problems/majority-element/",
+    "difficulty": "Easy",
+    "acceptance": 63.9,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1708,
+    "problem": "Largest Subarray Length K",
+    "url": "https://leetcode.com/problems/largest-subarray-length-k/",
+    "difficulty": "Easy",
+    "acceptance": 63.9,
+    "page": 7,
+    "availability": "premium"
+  },
+  {
+    "number": 258,
+    "problem": "Add Digits",
+    "url": "https://leetcode.com/problems/add-digits/",
+    "difficulty": "Easy",
+    "acceptance": 64,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2068,
+    "problem": "Check Whether Two Strings are Almost Equivalent",
+    "url": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/",
+    "difficulty": "Easy",
+    "acceptance": 64,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 606,
+    "problem": "Construct String from Binary Tree",
+    "url": "https://leetcode.com/problems/construct-string-from-binary-tree/",
+    "difficulty": "Easy",
+    "acceptance": 64,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 892,
+    "problem": "Surface Area of 3D Shapes",
+    "url": "https://leetcode.com/problems/surface-area-of-3d-shapes/",
+    "difficulty": "Easy",
+    "acceptance": 64,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1064,
+    "problem": "Fixed Point",
+    "url": "https://leetcode.com/problems/fixed-point/",
+    "difficulty": "Easy",
+    "acceptance": 64.1,
+    "page": 7,
+    "availability": "premium"
+  },
+  {
+    "number": 1455,
+    "problem": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "url": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/",
+    "difficulty": "Easy",
+    "acceptance": 64.2,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1103,
+    "problem": "Distribute Candies to People",
+    "url": "https://leetcode.com/problems/distribute-candies-to-people/",
+    "difficulty": "Easy",
+    "acceptance": 64.3,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 867,
+    "problem": "Transpose Matrix",
+    "url": "https://leetcode.com/problems/transpose-matrix/",
+    "difficulty": "Easy",
+    "acceptance": 64.3,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2490,
+    "problem": "Circular Sentence",
+    "url": "https://leetcode.com/problems/circular-sentence/",
+    "difficulty": "Easy",
+    "acceptance": 64.3,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2395,
+    "problem": "Find Subarrays With Equal Sum",
+    "url": "https://leetcode.com/problems/find-subarrays-with-equal-sum/",
+    "difficulty": "Easy",
+    "acceptance": 64.4,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1598,
+    "problem": "Crawler Log Folder",
+    "url": "https://leetcode.com/problems/crawler-log-folder/",
+    "difficulty": "Easy",
+    "acceptance": 64.6,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1394,
+    "problem": "Find Lucky Integer in an Array",
+    "url": "https://leetcode.com/problems/find-lucky-integer-in-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 64.6,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 706,
+    "problem": "Design HashMap",
+    "url": "https://leetcode.com/problems/design-hashmap/",
+    "difficulty": "Easy",
+    "acceptance": 64.7,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1046,
+    "problem": "Last Stone Weight",
+    "url": "https://leetcode.com/problems/last-stone-weight/",
+    "difficulty": "Easy",
+    "acceptance": 64.8,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2164,
+    "problem": "Sort Even and Odd Indices Independently",
+    "url": "https://leetcode.com/problems/sort-even-and-odd-indices-independently/",
+    "difficulty": "Easy",
+    "acceptance": 64.9,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1667,
+    "problem": "Fix Names in a Table",
+    "url": "https://leetcode.com/problems/fix-names-in-a-table/",
+    "difficulty": "Easy",
+    "acceptance": 65,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2224,
+    "problem": "Minimum Number of Operations to Convert Time",
+    "url": "https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/",
+    "difficulty": "Easy",
+    "acceptance": 65,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2200,
+    "problem": "Find All K-Distant Indices in an Array",
+    "url": "https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 65,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 243,
+    "problem": "Shortest Word Distance",
+    "url": "https://leetcode.com/problems/shortest-word-distance/",
+    "difficulty": "Easy",
+    "acceptance": 65,
+    "page": 7,
+    "availability": "premium"
+  },
+  {
+    "number": 1694,
+    "problem": "Reformat Phone Number",
+    "url": "https://leetcode.com/problems/reformat-phone-number/",
+    "difficulty": "Easy",
+    "acceptance": 65,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1822,
+    "problem": "Sign of the Product of an Array",
+    "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+    "difficulty": "Easy",
+    "acceptance": 65,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1113,
+    "problem": "Reported Posts",
+    "url": "https://leetcode.com/problems/reported-posts/",
+    "difficulty": "Easy",
+    "acceptance": 65.3,
+    "page": 7,
+    "availability": "premium"
+  },
+  {
+    "number": 1582,
+    "problem": "Special Positions in a Binary Matrix",
+    "url": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/",
+    "difficulty": "Easy",
+    "acceptance": 65.4,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 696,
+    "problem": "Count Binary Substrings",
+    "url": "https://leetcode.com/problems/count-binary-substrings/",
+    "difficulty": "Easy",
+    "acceptance": 65.4,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2138,
+    "problem": "Divide a String Into Groups of Size k",
+    "url": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/",
+    "difficulty": "Easy",
+    "acceptance": 65.5,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2180,
+    "problem": "Count Integers With Even Digit Sum",
+    "url": "https://leetcode.com/problems/count-integers-with-even-digit-sum/",
+    "difficulty": "Easy",
+    "acceptance": 65.5,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 705,
+    "problem": "Design HashSet",
+    "url": "https://leetcode.com/problems/design-hashset/",
+    "difficulty": "Easy",
+    "acceptance": 65.6,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1619,
+    "problem": "Mean of Array After Removing Some Elements",
+    "url": "https://leetcode.com/problems/mean-of-array-after-removing-some-elements/",
+    "difficulty": "Easy",
+    "acceptance": 65.8,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 266,
+    "problem": "Palindrome Permutation",
+    "url": "https://leetcode.com/problems/palindrome-permutation/",
+    "difficulty": "Easy",
+    "acceptance": 66.1,
+    "page": 7,
+    "availability": "premium"
+  },
+  {
+    "number": 1716,
+    "problem": "Calculate Money in Leetcode Bank",
+    "url": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/",
+    "difficulty": "Easy",
+    "acceptance": 66.1,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2062,
+    "problem": "Count Vowel Substrings of a String",
+    "url": "https://leetcode.com/problems/count-vowel-substrings-of-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 66.1,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1075,
+    "problem": "Project Employees I",
+    "url": "https://leetcode.com/problems/project-employees-i/",
+    "difficulty": "Easy",
+    "acceptance": 66.1,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1241,
+    "problem": "Number of Comments per Post",
+    "url": "https://leetcode.com/problems/number-of-comments-per-post/",
+    "difficulty": "Easy",
+    "acceptance": 66.3,
+    "page": 7,
+    "availability": "premium"
+  },
+  {
+    "number": 2243,
+    "problem": "Calculate Digit Sum of a String",
+    "url": "https://leetcode.com/problems/calculate-digit-sum-of-a-string/",
+    "difficulty": "Easy",
+    "acceptance": 66.4,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 884,
+    "problem": "Uncommon Words from Two Sentences",
+    "url": "https://leetcode.com/problems/uncommon-words-from-two-sentences/",
+    "difficulty": "Easy",
+    "acceptance": 66.4,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 575,
+    "problem": "Distribute Candies",
+    "url": "https://leetcode.com/problems/distribute-candies/",
+    "difficulty": "Easy",
+    "acceptance": 66.5,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1633,
+    "problem": "Percentage of Users Attended a Contest",
+    "url": "https://leetcode.com/problems/percentage-of-users-attended-a-contest/",
+    "difficulty": "Easy",
+    "acceptance": 66.5,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2319,
+    "problem": "Check if Matrix Is X-Matrix",
+    "url": "https://leetcode.com/problems/check-if-matrix-is-x-matrix/",
+    "difficulty": "Easy",
+    "acceptance": 66.6,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 1385,
+    "problem": "Find the Distance Value Between Two Arrays",
+    "url": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
+    "difficulty": "Easy",
+    "acceptance": 66.6,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 2558,
+    "problem": "Take Gifts From the Richest Pile",
+    "url": "https://leetcode.com/problems/take-gifts-from-the-richest-pile/",
+    "difficulty": "Easy",
+    "acceptance": 66.6,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 191,
+    "problem": "Number of 1 Bits",
+    "url": "https://leetcode.com/problems/number-of-1-bits/",
+    "difficulty": "Easy",
+    "acceptance": 66.7,
+    "page": 7,
+    "availability": "free"
+  },
+  {
+    "number": 806,
+    "problem": "Number of Lines To Write String",
+    "url": "https://leetcode.com/problems/number-of-lines-to-write-string/",
+    "difficulty": "Easy",
+    "acceptance": 66.7,
+    "page": 7,
+    "availability": "free"
+  }
+]
