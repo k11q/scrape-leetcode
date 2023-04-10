@@ -1,14 +1,5 @@
 [
   {
-    "number": 20,
-    "problem": "Valid Parentheses",
-    "url": "https://leetcode.com/problems/valid-parentheses/",
-    "difficulty": "Easy",
-    "acceptance": 40.4,
-    "page": 1,
-    "availability": "free"
-  },
-  {
     "number": 2423,
     "problem": "Remove Letter To Equalize Frequency",
     "url": "https://leetcode.com/problems/remove-letter-to-equalize-frequency/",
